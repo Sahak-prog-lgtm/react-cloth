@@ -4,6 +4,7 @@ import { Title } from '../components/ui/title'
 
 
 export const Home = () => {
+    // jhjhjh
     return (
         <>
             <Title size='l' text= "All Cloth"/>
