@@ -20,6 +20,8 @@ export const Product = (props) => {
     setIsAddLoading(false)
   }
 
+  // ajajhahha
+
   return (
     <article className={styles.product}>
       <Link to={`/product/${props.id}`}>
